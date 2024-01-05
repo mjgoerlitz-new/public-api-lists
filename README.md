@@ -69,6 +69,7 @@ For information on contributing to this project, please see the [contributing gu
 |                  [Cat Facts](https://alexwohlbruck.github.io/cat-facts/)                   | Daily cat facts                             |    No    |  Yes  |   No    |
 |                            [Cats](https://docs.thecatapi.com/)                             | Pictures of cats from Tumblr                | `apiKey` |  Yes  | Unknown |
 |                               [Cataas](https://cataas.com/)                                | Cat as a service (cats pictures and gifs)   |    No    |  Yes  | Unknown |
+|                               [Dog API](https://dogapi.dog)                                | Fun facts on dog breeds and groups          |    No    |  Yes  | Unknown |
 |                              [Dogs](https://dog.ceo/dog-api/)                              | Based on the Stanford Dogs Dataset          |    No    |  Yes  |   Yes   |
 |                                 [Foxes](https://foxes.cool)                                | Random fox images with different tags       |    No    |  Yes  |   Yes   |
 |                                [HTTPCat](https://http.cat/)                                | Cat for every HTTP Status                   |    No    |  Yes  | Unknown |
